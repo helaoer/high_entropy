@@ -1,0 +1,11 @@
+name: skopt
+dependencies:
+  - sympy
+  - pandas
+  - numpy
+  - scikit-learn
+  - scikit-optimize
+  - joblib
+  - pip:
+      - gplearn
+      - openpyxl==3.1.2

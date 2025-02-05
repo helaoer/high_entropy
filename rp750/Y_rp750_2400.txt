@@ -1,0 +1,2400 @@
+Rank 1, RMSE: 0.4407, Length: 24, Model Equation: add(div(div(sub(E, LAS), sub(La, IE)), mul(sub(5.450, IE), add(add(neg(Nd), sub(Sm, Nd)), div(Sm, 5.275)))), E)
+Rank 2, RMSE: 0.4637, Length: 49, Model Equation: add(div(sub(La, EN), mul(div(add(neg(Nd), sub(R, add(div(sub(La, EN), mul(div(add(neg(Nd), sub(R, LAS)), sub(Sm, mul(neg(Gd), div(Gd, -6.033)))), sub(Y, E))), E))), sub(Sm, mul(neg(Gd), div(Gd, -6.033)))), sub(Y, E))), E)
+Rank 3, RMSE: 0.4759, Length: 17, Model Equation: add(div(div(sub(E, LAS), sub(La, IE)), add(M, div(Sm, sub(Gd, Y)))), E)
+Rank 4, RMSE: 0.4823, Length: 45, Model Equation: add(div(sub(La, EN), mul(div(sub(E, add(Nd, add(div(sub(La, EN), mul(div(sub(E, add(Nd, Nd)), sub(add(Sm, sub(Pr, IE)), Gd)), sub(Y, E))), E))), sub(add(Sm, sub(Pr, IE)), Gd)), sub(Y, E))), E)
+Rank 5, RMSE: 0.4823, Length: 45, Model Equation: add(div(sub(La, EN), mul(div(sub(sub(E, add(div(sub(La, EN), mul(div(sub(sub(E, Nd), Nd), sub(add(Sm, sub(Pr, Gd)), IE)), sub(Pr, E))), E)), Nd), sub(add(Sm, sub(Pr, Gd)), IE)), sub(Pr, E))), E)
+Rank 6, RMSE: 0.5162, Length: 27, Model Equation: add(div(mul(mul(sub(div(EN, La), div(Ce, Nd)), div(sub(Gd, Sm), sub(Nd, EN))), sub(sub(add(EN, IE), E), E)), Gd), E)
+Rank 7, RMSE: 0.5228, Length: 15, Model Equation: add(div(sub(LAS, E), mul(div(Nd, add(Sm, -4.136)), sub(IE, La))), E)
+Rank 8, RMSE: 0.5405, Length: 17, Model Equation: add(div(neg(div(sub(E, LAS), sub(IE, La))), div(neg(Y), sub(Sm, Y))), E)
+Rank 9, RMSE: 0.5411, Length: 33, Model Equation: add(div(sub(Nd, Ce), add(mul(-6.245, IE), mul(R, Gd))), add(div(div(sub(Nd, E), add(mul(-6.245, IE), mul(R, R))), add(mul(-6.245, IE), mul(R, R))), E))
+Rank 10, RMSE: 0.5496, Length: 21, Model Equation: sub(E, div(div(sub(La, add(sub(LAS, La), IE)), mul(mul(sub(IE, M), Gd), sub(La, R))), Gd))
+Rank 11, RMSE: 0.5568, Length: 17, Model Equation: add(div(div(div(Ce, Gd), sub(Ce, EN)), mul(sub(R, La), mul(Gd, Gd))), E)
+Rank 12, RMSE: 0.5568, Length: 19, Model Equation: add(div(div(div(div(neg(Ce), sub(EN, Ce)), Gd), sub(La, R)), mul(neg(Gd), Gd)), E)
+Rank 13, RMSE: 0.5789, Length: 17, Model Equation: sub(E, div(div(div(E, M), add(Sm, 5.380)), add(div(Ce, R), sub(LAS, R))))
+Rank 14, RMSE: 0.5868, Length: 28, Model Equation: add(div(div(div(div(sub(EN, E), neg(-0.397)), add(mul(-6.245, IE), mul(R, R))), add(-4.535, EN)), add(mul(-6.245, IE), mul(R, R))), E)
+Rank 15, RMSE: 0.5884, Length: 26, Model Equation: add(div(sub(neg(div(mul(M, Gd), neg(LAS))), E), neg(mul(sub(R, Y), add(neg(div(mul(M, Gd), neg(LAS))), Nd)))), E)
+Rank 16, RMSE: 0.6034, Length: 11, Model Equation: sub(E, div(div(sub(LAS, E), sub(La, IE)), 4.982))
+Rank 17, RMSE: 0.6034, Length: 11, Model Equation: add(div(div(sub(E, LAS), sub(La, IE)), Nd), E)
+Rank 18, RMSE: 0.6042, Length: 18, Model Equation: add(div(sub(EN, R), div(sub(La, R), div(neg(add(-7.166, Gd)), mul(Gd, 5.437)))), E)
+Rank 19, RMSE: 0.6127, Length: 15, Model Equation: add(div(sub(5.829, E), add(sub(IE, La), mul(sub(EN, Sm), Sm))), E)
+Rank 20, RMSE: 0.6155, Length: 16, Model Equation: add(div(sub(EN, E), add(mul(neg(Gd), sub(E, IE)), add(-2.887, Nd))), E)
+Rank 21, RMSE: 0.6239, Length: 21, Model Equation: add(div(sub(EN, R), div(add(sub(LAS, Sm), div(Gd, E)), sub(div(Sm, EN), div(Ce, IE)))), E)
+Rank 22, RMSE: 0.6241, Length: 13, Model Equation: add(div(sub(Gd, E), mul(add(Gd, Gd), sub(Pr, R))), E)
+Rank 23, RMSE: 0.6262, Length: 13, Model Equation: add(div(sub(Gd, E), mul(sub(-8.843, Gd), sub(R, Y))), E)
+Rank 24, RMSE: 0.6338, Length: 24, Model Equation: add(add(E, div(sub(Ce, E), add(IE, sub(La, Y)))), div(div(neg(Sm), mul(mul(Gd, Gd), sub(Y, R))), Gd))
+Rank 25, RMSE: 0.6384, Length: 15, Model Equation: add(div(sub(EN, E), div(mul(sub(E, Pr), Nd), sub(Gd, La))), E)
+Rank 26, RMSE: 0.6422, Length: 11, Model Equation: sub(E, div(div(sub(IE, Gd), sub(Pr, R)), 4.712))
+Rank 27, RMSE: 0.6431, Length: 11, Model Equation: add(div(sub(LAS, IE), mul(4.063, sub(IE, R))), E)
+Rank 28, RMSE: 0.6448, Length: 17, Model Equation: add(div(sub(E, Nd), mul(8.020, sub(LAS, M))), add(div(sub(E, 5.253), -3.720), E))
+Rank 29, RMSE: 0.6680, Length: 13, Model Equation: add(div(sub(EN, R), mul(mul(sub(La, R), 8.988), Gd)), E)
+Rank 30, RMSE: 0.6682, Length: 13, Model Equation: add(div(sub(EN, R), mul(sub(R, La), mul(Gd, -8.894))), E)
+Rank 31, RMSE: 0.6729, Length: 21, Model Equation: add(sub(Y, 7.048), add(div(div(div(E, sub(LAS, M)), Nd), sub(add(Nd, IE), add(-4.021, E))), E))
+Rank 32, RMSE: 0.6887, Length: 15, Model Equation: add(div(La, mul(mul(sub(R, Pr), mul(Ce, 1.729)), mul(EN, EN))), E)
+Rank 33, RMSE: 0.7006, Length: 11, Model Equation: add(M, div(div(Sm, sub(M, LAS)), mul(-4.441, R)))
+Rank 34, RMSE: 0.7020, Length: 11, Model Equation: add(M, div(div(Sm, sub(M, LAS)), mul(La, -4.728)))
+Rank 35, RMSE: 0.7098, Length: 12, Model Equation: add(div(neg(div(sub(IE, Y), sub(Gd, R))), Sm), E)
+Rank 36, RMSE: 0.7102, Length: 11, Model Equation: add(M, div(div(Sm, sub(M, LAS)), mul(La, -5.430)))
+Rank 37, RMSE: 0.7583, Length: 11, Model Equation: add(div(sub(EN, E), div(Pr, sub(Gd, Ce))), E)
+Rank 38, RMSE: 0.7673, Length: 16, Model Equation: add(div(sub(EN, E), mul(add(div(LAS, La), sub(LAS, Gd)), neg(IE))), E)
+Rank 39, RMSE: 0.7734, Length: 12, Model Equation: add(div(neg(div(sub(6.562, EN), sub(E, Gd))), 4.332), E)
+Rank 40, RMSE: 0.8263, Length: 16, Model Equation: sub(E, add(div(div(add(IE, mul(Ce, E)), Pr), EN), div(neg(Ce), Gd)))
+Rank 41, RMSE: 0.8279, Length: 13, Model Equation: sub(sub(E, div(sub(E, EN), Nd)), div(sub(E, Ce), E))
+Rank 42, RMSE: 0.8285, Length: 9, Model Equation: add(sub(E, div(E, Sm)), div(Ce, E))
+Rank 43, RMSE: 0.8285, Length: 9, Model Equation: sub(div(Ce, E), sub(div(E, Sm), E))
+Rank 44, RMSE: 0.8340, Length: 13, Model Equation: add(div(sub(EN, E), mul(add(M, IE), sub(Gd, M))), E)
+Rank 45, RMSE: 0.8342, Length: 13, Model Equation: add(div(add(div(E, 1.207), div(EN, Gd)), 1.207), div(EN, Gd))
+Rank 46, RMSE: 0.8342, Length: 7, Model Equation: add(div(E, 1.229), div(EN, Gd))
+Rank 47, RMSE: 0.8353, Length: 7, Model Equation: add(div(EN, Gd), mul(0.809, E))
+Rank 48, RMSE: 0.8357, Length: 7, Model Equation: sub(div(EN, M), div(E, -1.240))
+Rank 49, RMSE: 0.8359, Length: 9, Model Equation: sub(EN, mul(4.547, div(sub(EN, E), IE)))
+Rank 50, RMSE: 0.8361, Length: 7, Model Equation: sub(div(EN, M), mul(E, -0.801))
+Rank 51, RMSE: 0.8399, Length: 11, Model Equation: add(E, div(sub(sub(EN, -6.467), add(E, IE)), Nd))
+Rank 52, RMSE: 0.8405, Length: 11, Model Equation: add(add(add(Y, div(sub(EN, LAS), Y)), -7.024), E)
+Rank 53, RMSE: 0.8409, Length: 13, Model Equation: add(div(div(add(0.438, Pr), div(La, R)), E), add(E, -1.240))
+Rank 54, RMSE: 0.8443, Length: 13, Model Equation: add(add(E, div(sub(EN, E), 3.161)), div(sub(Ce, E), M))
+Rank 55, RMSE: 0.8449, Length: 15, Model Equation: div(add(mul(EN, R), div(sub(mul(Y, M), div(Nd, Sm)), Ce)), Pr)
+Rank 56, RMSE: 0.8455, Length: 9, Model Equation: sub(3.598, div(sub(IE, add(EN, E)), 2.306))
+Rank 57, RMSE: 0.8455, Length: 9, Model Equation: sub(3.598, div(sub(IE, add(EN, E)), 2.306))
+Rank 58, RMSE: 0.8468, Length: 7, Model Equation: add(div(Y, E), add(E, -1.240))
+Rank 59, RMSE: 0.8472, Length: 7, Model Equation: sub(add(E, -1.555), div(-8.628, E))
+Rank 60, RMSE: 0.8474, Length: 12, Model Equation: add(E, div(sub(Ce, E), add(neg(Y), add(Gd, R))))
+Rank 61, RMSE: 0.8474, Length: 12, Model Equation: sub(E, div(sub(E, EN), add(neg(-2.043), sub(E, 4.964))))
+Rank 62, RMSE: 0.8493, Length: 7, Model Equation: sub(E, div(sub(E, EN), 3.687))
+Rank 63, RMSE: 0.8494, Length: 7, Model Equation: add(div(sub(EN, E), 4.071), E)
+Rank 64, RMSE: 0.8494, Length: 7, Model Equation: add(div(sub(EN, E), 4.119), E)
+Rank 65, RMSE: 0.8495, Length: 7, Model Equation: add(div(sub(EN, E), 4.144), E)
+Rank 66, RMSE: 0.8495, Length: 11, Model Equation: add(div(mul(sub(Ce, E), div(EN, E)), M), E)
+Rank 67, RMSE: 0.8497, Length: 7, Model Equation: mul(div(3.467, Y), add(EN, R))
+Rank 68, RMSE: 0.8499, Length: 11, Model Equation: div(add(add(La, div(LAS, La)), mul(R, EN)), Y)
+Rank 69, RMSE: 0.8503, Length: 7, Model Equation: sub(E, div(sub(E, EN), 4.578))
+Rank 70, RMSE: 0.8507, Length: 7, Model Equation: add(div(sub(Ce, E), 4.084), E)
+Rank 71, RMSE: 0.8507, Length: 7, Model Equation: add(div(sub(Ce, E), M), E)
+Rank 72, RMSE: 0.8515, Length: 7, Model Equation: sub(div(Pr, 5.010), div(E, -1.318))
+Rank 73, RMSE: 0.8518, Length: 7, Model Equation: div(add(mul(R, EN), IE), Y)
+Rank 74, RMSE: 0.8518, Length: 7, Model Equation: div(add(mul(EN, R), IE), Pr)
+Rank 75, RMSE: 0.8518, Length: 7, Model Equation: div(add(mul(EN, R), IE), Pr)
+Rank 76, RMSE: 0.8518, Length: 7, Model Equation: div(add(mul(EN, R), IE), Pr)
+Rank 77, RMSE: 0.8518, Length: 7, Model Equation: div(add(IE, mul(EN, R)), Y)
+Rank 78, RMSE: 0.8518, Length: 7, Model Equation: div(add(mul(R, EN), IE), Y)
+Rank 79, RMSE: 0.8518, Length: 7, Model Equation: div(add(IE, mul(R, EN)), Pr)
+Rank 80, RMSE: 0.8518, Length: 7, Model Equation: div(add(IE, mul(R, EN)), Y)
+Rank 81, RMSE: 0.8520, Length: 7, Model Equation: add(sub(IE, Gd), add(E, -0.674))
+Rank 82, RMSE: 0.8520, Length: 7, Model Equation: div(add(mul(EN, R), LAS), Pr)
+Rank 83, RMSE: 0.8529, Length: 6, Model Equation: add(neg(div(E, -1.408)), 1.604)
+Rank 84, RMSE: 0.8538, Length: 7, Model Equation: neg(sub(neg(-7.023), add(Pr, E)))
+Rank 85, RMSE: 0.8538, Length: 7, Model Equation: neg(sub(neg(-7.023), add(Y, E)))
+Rank 86, RMSE: 0.8538, Length: 6, Model Equation: sub(Y, sub(neg(E), -7.027))
+Rank 87, RMSE: 0.8538, Length: 5, Model Equation: add(add(-7.028, E), Pr)
+Rank 88, RMSE: 0.8538, Length: 5, Model Equation: add(add(E, -7.030), Y)
+Rank 89, RMSE: 0.8538, Length: 5, Model Equation: sub(add(E, Y), 7.030)
+Rank 90, RMSE: 0.8538, Length: 5, Model Equation: add(sub(E, 7.030), Y)
+Rank 91, RMSE: 0.8538, Length: 5, Model Equation: add(sub(E, 7.030), Y)
+Rank 92, RMSE: 0.8538, Length: 5, Model Equation: add(-7.032, add(Pr, E))
+Rank 93, RMSE: 0.8538, Length: 7, Model Equation: sub(sub(E, 6.961), sub(0.071, Pr))
+Rank 94, RMSE: 0.8538, Length: 5, Model Equation: add(Pr, sub(E, 7.032))
+Rank 95, RMSE: 0.8538, Length: 5, Model Equation: add(add(Pr, E), -7.033)
+Rank 96, RMSE: 0.8539, Length: 5, Model Equation: sub(Y, sub(7.016, E))
+Rank 97, RMSE: 0.8539, Length: 5, Model Equation: add(add(E, Y), -7.034)
+Rank 98, RMSE: 0.8539, Length: 6, Model Equation: add(neg(7.013), add(E, Pr))
+Rank 99, RMSE: 0.8539, Length: 5, Model Equation: add(add(Pr, -7.036), E)
+Rank 100, RMSE: 0.8540, Length: 5, Model Equation: add(E, sub(Pr, 7.040))
+Rank 101, RMSE: 0.8540, Length: 5, Model Equation: add(E, add(-7.009, Y))
+Rank 102, RMSE: 0.8540, Length: 5, Model Equation: add(E, sub(Y, 7.042))
+Rank 103, RMSE: 0.8540, Length: 6, Model Equation: sub(add(-7.042, E), neg(Y))
+Rank 104, RMSE: 0.8540, Length: 5, Model Equation: sub(E, sub(7.043, Pr))
+Rank 105, RMSE: 0.8541, Length: 5, Model Equation: add(E, sub(Pr, 7.046))
+Rank 106, RMSE: 0.8541, Length: 5, Model Equation: add(E, add(-7.047, Y))
+Rank 107, RMSE: 0.8542, Length: 5, Model Equation: add(add(-7.049, Pr), E)
+Rank 108, RMSE: 0.8542, Length: 5, Model Equation: add(Y, add(E, -6.999))
+Rank 109, RMSE: 0.8543, Length: 6, Model Equation: add(neg(7.053), add(E, Pr))
+Rank 110, RMSE: 0.8543, Length: 5, Model Equation: add(E, sub(Y, 6.995))
+Rank 111, RMSE: 0.8544, Length: 5, Model Equation: add(-6.994, add(E, Y))
+Rank 112, RMSE: 0.8545, Length: 5, Model Equation: add(Y, sub(E, 6.991))
+Rank 113, RMSE: 0.8545, Length: 6, Model Equation: add(add(Pr, E), neg(6.990))
+Rank 114, RMSE: 0.8546, Length: 10, Model Equation: add(E, neg(neg(div(sub(E, Ce), neg(La)))))
+Rank 115, RMSE: 0.8547, Length: 6, Model Equation: sub(add(Pr, -7.064), neg(E))
+Rank 116, RMSE: 0.8548, Length: 5, Model Equation: add(add(E, Y), -7.066)
+Rank 117, RMSE: 0.8549, Length: 7, Model Equation: add(sub(E, Gd), add(-0.751, IE))
+Rank 118, RMSE: 0.8550, Length: 7, Model Equation: add(sub(Pr, -0.912), add(-7.981, E))
+Rank 119, RMSE: 0.8550, Length: 5, Model Equation: mul(0.778, add(1.513, E))
+Rank 120, RMSE: 0.8552, Length: 5, Model Equation: add(add(-7.073, Y), E)
+Rank 121, RMSE: 0.8553, Length: 6, Model Equation: sub(Y, add(neg(E), 6.975))
+Rank 122, RMSE: 0.8553, Length: 6, Model Equation: mul(neg(Y), div(E, -6.993))
+Rank 123, RMSE: 0.8553, Length: 5, Model Equation: div(mul(E, Y), 7.002)
+Rank 124, RMSE: 0.8554, Length: 6, Model Equation: mul(neg(E), div(Pr, -6.974))
+Rank 125, RMSE: 0.8554, Length: 5, Model Equation: add(add(-6.972, Pr), E)
+Rank 126, RMSE: 0.8555, Length: 5, Model Equation: mul(Pr, div(E, 6.969))
+Rank 127, RMSE: 0.8555, Length: 5, Model Equation: add(add(Pr, E), -6.971)
+Rank 128, RMSE: 0.8556, Length: 7, Model Equation: neg(mul(div(E, 7.020), neg(Pr)))
+Rank 129, RMSE: 0.8556, Length: 7, Model Equation: neg(mul(div(E, 7.020), neg(Pr)))
+Rank 130, RMSE: 0.8556, Length: 5, Model Equation: div(E, div(6.964, Pr))
+Rank 131, RMSE: 0.8556, Length: 5, Model Equation: add(add(-6.969, E), Y)
+Rank 132, RMSE: 0.8558, Length: 5, Model Equation: sub(E, sub(7.083, Y))
+Rank 133, RMSE: 0.8559, Length: 6, Model Equation: neg(mul(E, div(Y, -7.031)))
+Rank 134, RMSE: 0.8560, Length: 5, Model Equation: mul(Y, div(E, 6.950))
+Rank 135, RMSE: 0.8562, Length: 6, Model Equation: mul(neg(E), div(Pr, -7.038))
+Rank 136, RMSE: 0.8562, Length: 5, Model Equation: mul(E, div(Pr, 6.946))
+Rank 137, RMSE: 0.8563, Length: 6, Model Equation: div(E, div(-6.942, neg(Pr)))
+Rank 138, RMSE: 0.8564, Length: 5, Model Equation: sub(add(Pr, E), 7.092)
+Rank 139, RMSE: 0.8565, Length: 7, Model Equation: add(mul(E, 0.823), div(LAS, LAS))
+Rank 140, RMSE: 0.8567, Length: 5, Model Equation: add(E, add(-6.954, Y))
+Rank 141, RMSE: 0.8567, Length: 5, Model Equation: add(Y, sub(E, 6.954))
+Rank 142, RMSE: 0.8568, Length: 6, Model Equation: sub(add(-7.096, E), neg(Y))
+Rank 143, RMSE: 0.8568, Length: 5, Model Equation: div(mul(E, Y), 6.933)
+Rank 144, RMSE: 0.8569, Length: 5, Model Equation: mul(div(Y, 6.930), E)
+Rank 145, RMSE: 0.8570, Length: 7, Model Equation: div(mul(E, IE), add(0.582, Gd))
+Rank 146, RMSE: 0.8571, Length: 5, Model Equation: mul(div(Y, 7.057), E)
+Rank 147, RMSE: 0.8571, Length: 6, Model Equation: sub(add(Pr, E), neg(-6.949))
+Rank 148, RMSE: 0.8572, Length: 5, Model Equation: mul(Y, div(E, 6.926))
+Rank 149, RMSE: 0.8572, Length: 6, Model Equation: mul(div(E, -6.926), neg(Pr))
+Rank 150, RMSE: 0.8572, Length: 6, Model Equation: mul(div(E, -6.926), neg(Pr))
+Rank 151, RMSE: 0.8573, Length: 6, Model Equation: mul(neg(E), div(Y, -7.061))
+Rank 152, RMSE: 0.8574, Length: 6, Model Equation: mul(div(E, -6.923), neg(Pr))
+Rank 153, RMSE: 0.8575, Length: 5, Model Equation: sub(E, sub(7.104, Y))
+Rank 154, RMSE: 0.8575, Length: 5, Model Equation: mul(Pr, div(E, 6.920))
+Rank 155, RMSE: 0.8575, Length: 5, Model Equation: mul(Pr, div(E, 6.920))
+Rank 156, RMSE: 0.8577, Length: 5, Model Equation: div(mul(Y, E), 6.917)
+Rank 157, RMSE: 0.8583, Length: 6, Model Equation: add(add(Pr, E), neg(6.937))
+Rank 158, RMSE: 0.8588, Length: 5, Model Equation: div(E, div(7.083, Y))
+Rank 159, RMSE: 0.8589, Length: 7, Model Equation: mul(div(3.059, IE), add(IE, E))
+Rank 160, RMSE: 0.8591, Length: 26, Model Equation: sub(sub(div(mul(-1.408, La), mul(Nd, Nd)), div(neg(Y), div(Pr, E))), div(neg(sub(LAS, Pr)), add(div(Nd, IE), neg(La))))
+Rank 161, RMSE: 0.8593, Length: 5, Model Equation: div(M, div(IE, 7.103))
+Rank 162, RMSE: 0.8595, Length: 5, Model Equation: sub(add(E, Pr), 7.123)
+Rank 163, RMSE: 0.8596, Length: 6, Model Equation: div(neg(E), div(-6.894, Pr))
+Rank 164, RMSE: 0.8597, Length: 6, Model Equation: mul(mul(E, Y), neg(-0.141))
+Rank 165, RMSE: 0.8598, Length: 5, Model Equation: mul(E, div(Y, 6.891))
+Rank 166, RMSE: 0.8603, Length: 5, Model Equation: mul(E, div(Pr, 6.886))
+Rank 167, RMSE: 0.8604, Length: 5, Model Equation: mul(M, div(7.143, IE))
+Rank 168, RMSE: 0.8604, Length: 5, Model Equation: mul(div(7.145, IE), M)
+Rank 169, RMSE: 0.8617, Length: 5, Model Equation: div(mul(M, 7.013), IE)
+Rank 170, RMSE: 0.8623, Length: 6, Model Equation: sub(sub(Y, 7.145), neg(E))
+Rank 171, RMSE: 0.8631, Length: 6, Model Equation: div(mul(Y, E), neg(-7.129))
+Rank 172, RMSE: 0.8634, Length: 6, Model Equation: neg(div(-6.991, div(IE, M)))
+Rank 173, RMSE: 0.8634, Length: 6, Model Equation: sub(add(Y, -7.153), neg(E))
+Rank 174, RMSE: 0.8643, Length: 5, Model Equation: sub(E, sub(7.159, Pr))
+Rank 175, RMSE: 0.8644, Length: 5, Model Equation: add(-7.160, add(Pr, E))
+Rank 176, RMSE: 0.8651, Length: 5, Model Equation: add(add(-7.164, Pr), E)
+Rank 177, RMSE: 0.8674, Length: 7, Model Equation: sub(div(IE, E), sub(1.193, E))
+Rank 178, RMSE: 0.8676, Length: 5, Model Equation: mul(E, div(Pr, 7.166))
+Rank 179, RMSE: 0.8690, Length: 5, Model Equation: mul(div(Pr, 6.817), E)
+Rank 180, RMSE: 0.8707, Length: 6, Model Equation: mul(div(-7.257, neg(IE)), M)
+Rank 181, RMSE: 0.8707, Length: 14, Model Equation: sub(sub(sub(E, Ce), neg(Ce)), div(sub(E, EN), add(Y, Pr)))
+Rank 182, RMSE: 0.8732, Length: 13, Model Equation: sub(E, neg(mul(div(E, neg(Pr)), div(div(Gd, Ce), M))))
+Rank 183, RMSE: 0.8748, Length: 7, Model Equation: sub(E, div(Gd, mul(Pr, EN)))
+Rank 184, RMSE: 0.8758, Length: 14, Model Equation: sub(div(sub(EN, IE), sub(Y, -2.104)), add(sub(Nd, Nd), neg(E)))
+Rank 185, RMSE: 0.8769, Length: 3, Model Equation: mul(E, 0.976)
+Rank 186, RMSE: 0.8769, Length: 3, Model Equation: mul(E, 0.976)
+Rank 187, RMSE: 0.8769, Length: 3, Model Equation: mul(E, 0.976)
+Rank 188, RMSE: 0.8769, Length: 3, Model Equation: mul(0.976, E)
+Rank 189, RMSE: 0.8769, Length: 3, Model Equation: mul(E, 0.976)
+Rank 190, RMSE: 0.8769, Length: 3, Model Equation: mul(E, 0.976)
+Rank 191, RMSE: 0.8769, Length: 3, Model Equation: div(E, 1.025)
+Rank 192, RMSE: 0.8769, Length: 3, Model Equation: div(E, 1.025)
+Rank 193, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.024)
+Rank 194, RMSE: 0.8770, Length: 3, Model Equation: mul(0.977, E)
+Rank 195, RMSE: 0.8770, Length: 3, Model Equation: mul(0.977, E)
+Rank 196, RMSE: 0.8770, Length: 3, Model Equation: mul(0.975, E)
+Rank 197, RMSE: 0.8770, Length: 3, Model Equation: mul(0.975, E)
+Rank 198, RMSE: 0.8770, Length: 3, Model Equation: mul(0.975, E)
+Rank 199, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 200, RMSE: 0.8770, Length: 3, Model Equation: mul(0.975, E)
+Rank 201, RMSE: 0.8770, Length: 3, Model Equation: mul(0.978, E)
+Rank 202, RMSE: 0.8770, Length: 3, Model Equation: mul(0.975, E)
+Rank 203, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 204, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 205, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 206, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 207, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.026)
+Rank 208, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.026)
+Rank 209, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 210, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 211, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.023)
+Rank 212, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.026)
+Rank 213, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.026)
+Rank 214, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.022)
+Rank 215, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.022)
+Rank 216, RMSE: 0.8770, Length: 3, Model Equation: mul(0.974, E)
+Rank 217, RMSE: 0.8770, Length: 3, Model Equation: mul(E, 0.978)
+Rank 218, RMSE: 0.8770, Length: 3, Model Equation: mul(E, 0.974)
+Rank 219, RMSE: 0.8770, Length: 3, Model Equation: mul(E, 0.974)
+Rank 220, RMSE: 0.8770, Length: 3, Model Equation: mul(0.974, E)
+Rank 221, RMSE: 0.8770, Length: 3, Model Equation: div(E, 1.027)
+Rank 222, RMSE: 0.8771, Length: 3, Model Equation: mul(E, 0.979)
+Rank 223, RMSE: 0.8771, Length: 3, Model Equation: mul(0.973, E)
+Rank 224, RMSE: 0.8771, Length: 3, Model Equation: mul(0.973, E)
+Rank 225, RMSE: 0.8771, Length: 3, Model Equation: mul(0.979, E)
+Rank 226, RMSE: 0.8771, Length: 3, Model Equation: mul(0.979, E)
+Rank 227, RMSE: 0.8771, Length: 3, Model Equation: mul(0.979, E)
+Rank 228, RMSE: 0.8771, Length: 3, Model Equation: mul(E, 0.973)
+Rank 229, RMSE: 0.8771, Length: 3, Model Equation: mul(0.979, E)
+Rank 230, RMSE: 0.8772, Length: 3, Model Equation: mul(E, 0.979)
+Rank 231, RMSE: 0.8772, Length: 3, Model Equation: mul(E, 0.973)
+Rank 232, RMSE: 0.8772, Length: 3, Model Equation: mul(0.979, E)
+Rank 233, RMSE: 0.8772, Length: 3, Model Equation: mul(0.979, E)
+Rank 234, RMSE: 0.8772, Length: 3, Model Equation: mul(0.973, E)
+Rank 235, RMSE: 0.8772, Length: 3, Model Equation: div(E, 1.021)
+Rank 236, RMSE: 0.8772, Length: 5, Model Equation: mul(mul(E, 0.986), 0.986)
+Rank 237, RMSE: 0.8772, Length: 3, Model Equation: div(E, 1.028)
+Rank 238, RMSE: 0.8772, Length: 3, Model Equation: mul(0.973, E)
+Rank 239, RMSE: 0.8772, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 240, RMSE: 0.8772, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 241, RMSE: 0.8772, Length: 3, Model Equation: mul(E, 0.980)
+Rank 242, RMSE: 0.8772, Length: 3, Model Equation: mul(0.980, E)
+Rank 243, RMSE: 0.8772, Length: 3, Model Equation: mul(E, 0.980)
+Rank 244, RMSE: 0.8772, Length: 3, Model Equation: mul(E, 0.973)
+Rank 245, RMSE: 0.8772, Length: 3, Model Equation: mul(0.980, E)
+Rank 246, RMSE: 0.8773, Length: 3, Model Equation: div(E, 1.020)
+Rank 247, RMSE: 0.8773, Length: 3, Model Equation: mul(0.980, E)
+Rank 248, RMSE: 0.8773, Length: 3, Model Equation: mul(0.980, E)
+Rank 249, RMSE: 0.8773, Length: 3, Model Equation: div(E, 1.020)
+Rank 250, RMSE: 0.8773, Length: 3, Model Equation: div(E, 1.029)
+Rank 251, RMSE: 0.8773, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 252, RMSE: 0.8773, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 253, RMSE: 0.8773, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 254, RMSE: 0.8774, Length: 3, Model Equation: mul(0.972, E)
+Rank 255, RMSE: 0.8774, Length: 3, Model Equation: mul(0.972, E)
+Rank 256, RMSE: 0.8774, Length: 3, Model Equation: mul(0.981, E)
+Rank 257, RMSE: 0.8774, Length: 3, Model Equation: mul(0.981, E)
+Rank 258, RMSE: 0.8774, Length: 3, Model Equation: mul(E, 0.972)
+Rank 259, RMSE: 0.8774, Length: 3, Model Equation: mul(0.972, E)
+Rank 260, RMSE: 0.8774, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 261, RMSE: 0.8774, Length: 3, Model Equation: div(E, 1.020)
+Rank 262, RMSE: 0.8774, Length: 3, Model Equation: mul(0.971, E)
+Rank 263, RMSE: 0.8774, Length: 3, Model Equation: mul(0.971, E)
+Rank 264, RMSE: 0.8774, Length: 3, Model Equation: div(E, 1.029)
+Rank 265, RMSE: 0.8774, Length: 3, Model Equation: div(E, 1.029)
+Rank 266, RMSE: 0.8774, Length: 3, Model Equation: mul(0.981, E)
+Rank 267, RMSE: 0.8774, Length: 3, Model Equation: div(E, 1.029)
+Rank 268, RMSE: 0.8774, Length: 3, Model Equation: div(E, 1.019)
+Rank 269, RMSE: 0.8774, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 270, RMSE: 0.8774, Length: 5, Model Equation: mul(0.986, mul(0.986, E))
+Rank 271, RMSE: 0.8774, Length: 3, Model Equation: mul(E, 0.971)
+Rank 272, RMSE: 0.8774, Length: 3, Model Equation: mul(0.971, E)
+Rank 273, RMSE: 0.8775, Length: 3, Model Equation: mul(0.971, E)
+Rank 274, RMSE: 0.8775, Length: 3, Model Equation: mul(0.971, E)
+Rank 275, RMSE: 0.8775, Length: 3, Model Equation: mul(E, 0.981)
+Rank 276, RMSE: 0.8775, Length: 3, Model Equation: mul(E, 0.981)
+Rank 277, RMSE: 0.8775, Length: 3, Model Equation: mul(E, 0.981)
+Rank 278, RMSE: 0.8775, Length: 3, Model Equation: mul(0.981, E)
+Rank 279, RMSE: 0.8775, Length: 3, Model Equation: mul(E, 0.981)
+Rank 280, RMSE: 0.8775, Length: 3, Model Equation: mul(E, 0.981)
+Rank 281, RMSE: 0.8775, Length: 3, Model Equation: mul(E, 0.971)
+Rank 282, RMSE: 0.8775, Length: 3, Model Equation: mul(0.981, E)
+Rank 283, RMSE: 0.8775, Length: 5, Model Equation: mul(0.985, mul(0.985, E))
+Rank 284, RMSE: 0.8776, Length: 3, Model Equation: mul(E, 0.971)
+Rank 285, RMSE: 0.8776, Length: 5, Model Equation: mul(mul(E, 0.985), 0.985)
+Rank 286, RMSE: 0.8776, Length: 3, Model Equation: mul(0.982, E)
+Rank 287, RMSE: 0.8776, Length: 3, Model Equation: div(E, 1.030)
+Rank 288, RMSE: 0.8777, Length: 3, Model Equation: mul(0.982, E)
+Rank 289, RMSE: 0.8777, Length: 3, Model Equation: mul(0.982, E)
+Rank 290, RMSE: 0.8777, Length: 3, Model Equation: div(E, 1.018)
+Rank 291, RMSE: 0.8777, Length: 3, Model Equation: mul(0.982, E)
+Rank 292, RMSE: 0.8777, Length: 3, Model Equation: mul(E, 0.970)
+Rank 293, RMSE: 0.8777, Length: 3, Model Equation: mul(E, 0.982)
+Rank 294, RMSE: 0.8777, Length: 3, Model Equation: div(E, 1.031)
+Rank 295, RMSE: 0.8777, Length: 3, Model Equation: div(E, 1.018)
+Rank 296, RMSE: 0.8777, Length: 5, Model Equation: div(div(E, 1.015), 1.015)
+Rank 297, RMSE: 0.8777, Length: 5, Model Equation: mul(0.985, mul(0.985, E))
+Rank 298, RMSE: 0.8777, Length: 5, Model Equation: mul(0.985, mul(0.985, E))
+Rank 299, RMSE: 0.8777, Length: 5, Model Equation: mul(0.985, mul(0.985, E))
+Rank 300, RMSE: 0.8778, Length: 5, Model Equation: div(div(E, 1.015), 1.015)
+Rank 301, RMSE: 0.8778, Length: 5, Model Equation: div(div(E, 1.015), 1.015)
+Rank 302, RMSE: 0.8778, Length: 3, Model Equation: mul(0.970, E)
+Rank 303, RMSE: 0.8779, Length: 3, Model Equation: mul(E, 0.983)
+Rank 304, RMSE: 0.8779, Length: 3, Model Equation: mul(0.983, E)
+Rank 305, RMSE: 0.8779, Length: 3, Model Equation: mul(0.983, E)
+Rank 306, RMSE: 0.8779, Length: 3, Model Equation: mul(0.969, E)
+Rank 307, RMSE: 0.8779, Length: 3, Model Equation: mul(0.969, E)
+Rank 308, RMSE: 0.8780, Length: 3, Model Equation: mul(E, 0.983)
+Rank 309, RMSE: 0.8780, Length: 5, Model Equation: mul(0.985, mul(0.985, E))
+Rank 310, RMSE: 0.8780, Length: 3, Model Equation: mul(0.969, E)
+Rank 311, RMSE: 0.8780, Length: 5, Model Equation: mul(mul(E, 0.984), 0.984)
+Rank 312, RMSE: 0.8780, Length: 5, Model Equation: div(div(E, 1.016), 1.016)
+Rank 313, RMSE: 0.8780, Length: 3, Model Equation: mul(0.969, E)
+Rank 314, RMSE: 0.8781, Length: 5, Model Equation: mul(0.984, mul(0.984, E))
+Rank 315, RMSE: 0.8781, Length: 5, Model Equation: mul(0.984, mul(0.984, E))
+Rank 316, RMSE: 0.8781, Length: 3, Model Equation: mul(0.969, E)
+Rank 317, RMSE: 0.8781, Length: 3, Model Equation: div(E, 1.032)
+Rank 318, RMSE: 0.8781, Length: 3, Model Equation: mul(0.969, E)
+Rank 319, RMSE: 0.8781, Length: 3, Model Equation: mul(0.983, E)
+Rank 320, RMSE: 0.8781, Length: 3, Model Equation: mul(E, 0.969)
+Rank 321, RMSE: 0.8781, Length: 3, Model Equation: div(E, 1.032)
+Rank 322, RMSE: 0.8782, Length: 3, Model Equation: mul(E, 0.969)
+Rank 323, RMSE: 0.8782, Length: 3, Model Equation: div(E, 1.033)
+Rank 324, RMSE: 0.8782, Length: 3, Model Equation: mul(E, 0.984)
+Rank 325, RMSE: 0.8782, Length: 3, Model Equation: mul(E, 0.984)
+Rank 326, RMSE: 0.8782, Length: 3, Model Equation: mul(0.968, E)
+Rank 327, RMSE: 0.8783, Length: 3, Model Equation: mul(E, 0.984)
+Rank 328, RMSE: 0.8783, Length: 5, Model Equation: mul(0.984, mul(0.984, E))
+Rank 329, RMSE: 0.8784, Length: 3, Model Equation: div(E, 1.033)
+Rank 330, RMSE: 0.8785, Length: 3, Model Equation: mul(E, 0.968)
+Rank 331, RMSE: 0.8786, Length: 3, Model Equation: mul(0.967, E)
+Rank 332, RMSE: 0.8787, Length: 3, Model Equation: div(E, 1.034)
+Rank 333, RMSE: 0.8787, Length: 3, Model Equation: mul(0.967, E)
+Rank 334, RMSE: 0.8787, Length: 3, Model Equation: div(E, 1.034)
+Rank 335, RMSE: 0.8787, Length: 3, Model Equation: mul(0.967, E)
+Rank 336, RMSE: 0.8788, Length: 3, Model Equation: mul(E, 0.967)
+Rank 337, RMSE: 0.8789, Length: 3, Model Equation: div(E, 1.035)
+Rank 338, RMSE: 0.8789, Length: 3, Model Equation: mul(0.967, E)
+Rank 339, RMSE: 0.8789, Length: 3, Model Equation: mul(0.967, E)
+Rank 340, RMSE: 0.8789, Length: 3, Model Equation: mul(0.967, E)
+Rank 341, RMSE: 0.8789, Length: 3, Model Equation: mul(E, 0.967)
+Rank 342, RMSE: 0.8790, Length: 3, Model Equation: div(E, 1.035)
+Rank 343, RMSE: 0.8790, Length: 3, Model Equation: mul(0.986, E)
+Rank 344, RMSE: 0.8791, Length: 3, Model Equation: mul(0.966, E)
+Rank 345, RMSE: 0.8791, Length: 3, Model Equation: div(E, 1.035)
+Rank 346, RMSE: 0.8793, Length: 3, Model Equation: div(E, 1.014)
+Rank 347, RMSE: 0.8795, Length: 13, Model Equation: add(E, div(div(La, add(Pr, Ce)), sub(div(M, IE), IE)))
+Rank 348, RMSE: 0.8799, Length: 7, Model Equation: sub(E, div(div(La, Y), La))
+Rank 349, RMSE: 0.8799, Length: 7, Model Equation: sub(E, div(div(M, Nd), Nd))
+Rank 350, RMSE: 0.8802, Length: 8, Model Equation: add(E, div(div(neg(La), Nd), IE))
+Rank 351, RMSE: 0.8809, Length: 3, Model Equation: div(E, 1.011)
+Rank 352, RMSE: 0.8810, Length: 3, Model Equation: mul(E, 0.962)
+Rank 353, RMSE: 0.8812, Length: 20, Model Equation: add(neg(add(neg(LAS), sub(LAS, E))), div(neg(div(M, Nd)), mul(div(EN, 0.384), div(Sm, EN))))
+Rank 354, RMSE: 0.8813, Length: 9, Model Equation: add(div(add(neg(EN), M), neg(La)), E)
+Rank 355, RMSE: 0.8813, Length: 3, Model Equation: sub(E, 0.115)
+Rank 356, RMSE: 0.8813, Length: 3, Model Equation: add(-0.111, E)
+Rank 357, RMSE: 0.8814, Length: 3, Model Equation: add(E, -0.131)
+Rank 358, RMSE: 0.8815, Length: 3, Model Equation: div(E, 1.009)
+Rank 359, RMSE: 0.8816, Length: 3, Model Equation: sub(E, 0.093)
+Rank 360, RMSE: 0.8818, Length: 7, Model Equation: add(div(div(-5.849, Ce), Nd), E)
+Rank 361, RMSE: 0.8819, Length: 5, Model Equation: add(E, add(-2.682, 2.531))
+Rank 362, RMSE: 0.8820, Length: 3, Model Equation: add(E, -0.082)
+Rank 363, RMSE: 0.8821, Length: 3, Model Equation: add(-0.156, E)
+Rank 364, RMSE: 0.8825, Length: 7, Model Equation: add(div(-4.899, mul(LAS, Nd)), E)
+Rank 365, RMSE: 0.8825, Length: 7, Model Equation: add(div(sub(EN, IE), La), E)
+Rank 366, RMSE: 0.8825, Length: 7, Model Equation: add(div(sub(EN, IE), La), E)
+Rank 367, RMSE: 0.8825, Length: 7, Model Equation: sub(E, div(Nd, mul(IE, EN)))
+Rank 368, RMSE: 0.8829, Length: 11, Model Equation: sub(add(add(EN, R), neg(Y)), neg(div(IE, LAS)))
+Rank 369, RMSE: 0.8830, Length: 3, Model Equation: sub(E, 0.063)
+Rank 370, RMSE: 0.8832, Length: 11, Model Equation: sub(neg(neg(E)), div(div(Y, Ce), add(Gd, IE)))
+Rank 371, RMSE: 0.8834, Length: 3, Model Equation: add(E, -0.058)
+Rank 372, RMSE: 0.8838, Length: 3, Model Equation: mul(E, 0.958)
+Rank 373, RMSE: 0.8842, Length: 7, Model Equation: add(E, div(sub(Y, IE), LAS))
+Rank 374, RMSE: 0.8846, Length: 3, Model Equation: add(-0.041, E)
+Rank 375, RMSE: 0.8848, Length: 3, Model Equation: add(-0.040, E)
+Rank 376, RMSE: 0.8849, Length: 11, Model Equation: sub(neg(neg(E)), div(div(IE, Ce), mul(Pr, Sm)))
+Rank 377, RMSE: 0.8849, Length: 8, Model Equation: add(neg(div(La, mul(E, EN))), E)
+Rank 378, RMSE: 0.8850, Length: 4, Model Equation: sub(E, neg(-0.038))
+Rank 379, RMSE: 0.8851, Length: 7, Model Equation: sub(E, div(div(La, LAS), E))
+Rank 380, RMSE: 0.8857, Length: 5, Model Equation: add(E, div(-0.826, La))
+Rank 381, RMSE: 0.8857, Length: 11, Model Equation: add(div(sub(EN, M), mul(LAS, Nd)), neg(neg(E)))
+Rank 382, RMSE: 0.8860, Length: 9, Model Equation: sub(E, div(-0.146, sub(div(Sm, Pr), R)))
+Rank 383, RMSE: 0.8862, Length: 8, Model Equation: add(div(neg(1.623), add(E, M)), E)
+Rank 384, RMSE: 0.8863, Length: 9, Model Equation: sub(E, div(div(EN, M), mul(Ce, Nd)))
+Rank 385, RMSE: 0.8863, Length: 7, Model Equation: sub(E, div(div(Ce, EN), LAS))
+Rank 386, RMSE: 0.8864, Length: 3, Model Equation: sub(E, 0.213)
+Rank 387, RMSE: 0.8865, Length: 7, Model Equation: neg(sub(neg(E), div(-0.130, Nd)))
+Rank 388, RMSE: 0.8867, Length: 11, Model Equation: sub(neg(neg(E)), div(div(EN, Y), mul(La, Pr)))
+Rank 389, RMSE: 0.8868, Length: 5, Model Equation: add(div(-0.147, La), E)
+Rank 390, RMSE: 0.8873, Length: 7, Model Equation: neg(sub(neg(E), div(-1.686, Y)))
+Rank 391, RMSE: 0.8874, Length: 3, Model Equation: div(E, 1.002)
+Rank 392, RMSE: 0.8876, Length: 3, Model Equation: add(E, -0.224)
+Rank 393, RMSE: 0.8876, Length: 8, Model Equation: add(div(div(neg(Y), Sm), Nd), E)
+Rank 394, RMSE: 0.8881, Length: 3, Model Equation: add(E, -0.228)
+Rank 395, RMSE: 0.8888, Length: 11, Model Equation: sub(neg(neg(E)), div(sub(La, Gd), mul(EN, IE)))
+Rank 396, RMSE: 0.8889, Length: 11, Model Equation: add(div(add(-6.034, R), sub(-1.695, add(IE, Ce))), E)
+Rank 397, RMSE: 0.8892, Length: 5, Model Equation: mul(IE, div(E, IE))
+Rank 398, RMSE: 0.8892, Length: 5, Model Equation: div(mul(E, Sm), Sm)
+Rank 399, RMSE: 0.8892, Length: 5, Model Equation: mul(div(E, Sm), Sm)
+Rank 400, RMSE: 0.8892, Length: 5, Model Equation: sub(add(E, Ce), Ce)
+Rank 401, RMSE: 0.8892, Length: 6, Model Equation: add(neg(Ce), add(E, Ce))
+Rank 402, RMSE: 0.8892, Length: 10, Model Equation: add(neg(neg(add(E, Ce))), neg(neg(neg(Ce))))
+Rank 403, RMSE: 0.8892, Length: 5, Model Equation: sub(add(M, E), M)
+Rank 404, RMSE: 0.8892, Length: 5, Model Equation: sub(add(E, M), M)
+Rank 405, RMSE: 0.8892, Length: 6, Model Equation: add(add(E, Ce), neg(Ce))
+Rank 406, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 407, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 408, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 409, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 410, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 411, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 412, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 413, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 414, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 415, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 416, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 417, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 418, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 419, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 420, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 421, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 422, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 423, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 424, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 425, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 426, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 427, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 428, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 429, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 430, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 431, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 432, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 433, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 434, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 435, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 436, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 437, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 438, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 439, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 440, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 441, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 442, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 443, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 444, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 445, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 446, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 447, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 448, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 449, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 450, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 451, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 452, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 453, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 454, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 455, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 456, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 457, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 458, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 459, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 460, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 461, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 462, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 463, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 464, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 465, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 466, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 467, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 468, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 469, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 470, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 471, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 472, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 473, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 474, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 475, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 476, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 477, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 478, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 479, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 480, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 481, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 482, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 483, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 484, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 485, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 486, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 487, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 488, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 489, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 490, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 491, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 492, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 493, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 494, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 495, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 496, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 497, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 498, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 499, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 500, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 501, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 502, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 503, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 504, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 505, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 506, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 507, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 508, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 509, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 510, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 511, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 512, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 513, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 514, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 515, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 516, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 517, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 518, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 519, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 520, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 521, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 522, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 523, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 524, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 525, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 526, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 527, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 528, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 529, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 530, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 531, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 532, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 533, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 534, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 535, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 536, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 537, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 538, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 539, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 540, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 541, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 542, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 543, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 544, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 545, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 546, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 547, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 548, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 549, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 550, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 551, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 552, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 553, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 554, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 555, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 556, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 557, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 558, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 559, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 560, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 561, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 562, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 563, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 564, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 565, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 566, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 567, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 568, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 569, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 570, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 571, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 572, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 573, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 574, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 575, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 576, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 577, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 578, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 579, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 580, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 581, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 582, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 583, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 584, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 585, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 586, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 587, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 588, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 589, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 590, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 591, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 592, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 593, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 594, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 595, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 596, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 597, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 598, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 599, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 600, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 601, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 602, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 603, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 604, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 605, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 606, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 607, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 608, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 609, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 610, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 611, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 612, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 613, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 614, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 615, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 616, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 617, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 618, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 619, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 620, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 621, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 622, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 623, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 624, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 625, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 626, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 627, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 628, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 629, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 630, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 631, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 632, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 633, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 634, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 635, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 636, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 637, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 638, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 639, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 640, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 641, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 642, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 643, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 644, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 645, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 646, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 647, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 648, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 649, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 650, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 651, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 652, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 653, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 654, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 655, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 656, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 657, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 658, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 659, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 660, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 661, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 662, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 663, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 664, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 665, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 666, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 667, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 668, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 669, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 670, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 671, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 672, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 673, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 674, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 675, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 676, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 677, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 678, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 679, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 680, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 681, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 682, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 683, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 684, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 685, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 686, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 687, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 688, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 689, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 690, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 691, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 692, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 693, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 694, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 695, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 696, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 697, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 698, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 699, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 700, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 701, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 702, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 703, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 704, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 705, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 706, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 707, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 708, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 709, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 710, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 711, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 712, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 713, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 714, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 715, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 716, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 717, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 718, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 719, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 720, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 721, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 722, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 723, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 724, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 725, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 726, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 727, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 728, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 729, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 730, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 731, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 732, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 733, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 734, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 735, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 736, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 737, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 738, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 739, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 740, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 741, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 742, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 743, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 744, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 745, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 746, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 747, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 748, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 749, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 750, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 751, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 752, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 753, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 754, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 755, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 756, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 757, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 758, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 759, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 760, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 761, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 762, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 763, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 764, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 765, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 766, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 767, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 768, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 769, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 770, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 771, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 772, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 773, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 774, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 775, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 776, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 777, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 778, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 779, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 780, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 781, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 782, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 783, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 784, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 785, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 786, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 787, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 788, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 789, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 790, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 791, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 792, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 793, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 794, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 795, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 796, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 797, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 798, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 799, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 800, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 801, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 802, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 803, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 804, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 805, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 806, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 807, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 808, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 809, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 810, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 811, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 812, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 813, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 814, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 815, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 816, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 817, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 818, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 819, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 820, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 821, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 822, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 823, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 824, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 825, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 826, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 827, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 828, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 829, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 830, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 831, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 832, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 833, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 834, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 835, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 836, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 837, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 838, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 839, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 840, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 841, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 842, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 843, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 844, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 845, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 846, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 847, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 848, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 849, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 850, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 851, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 852, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 853, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 854, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 855, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 856, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 857, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 858, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 859, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 860, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 861, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 862, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 863, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 864, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 865, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 866, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 867, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 868, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 869, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 870, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 871, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 872, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 873, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 874, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 875, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 876, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 877, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 878, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 879, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 880, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 881, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 882, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 883, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 884, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 885, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 886, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 887, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 888, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 889, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 890, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 891, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 892, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 893, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 894, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 895, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 896, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 897, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 898, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 899, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 900, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 901, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 902, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 903, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 904, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 905, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 906, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 907, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 908, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 909, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 910, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 911, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 912, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 913, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 914, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 915, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 916, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 917, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 918, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 919, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 920, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 921, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 922, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 923, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 924, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 925, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 926, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 927, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 928, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 929, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 930, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 931, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 932, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 933, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 934, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 935, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 936, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 937, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 938, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 939, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 940, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 941, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 942, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 943, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 944, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 945, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 946, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 947, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 948, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 949, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 950, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 951, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 952, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 953, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 954, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 955, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 956, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 957, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 958, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 959, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 960, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 961, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 962, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 963, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 964, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 965, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 966, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 967, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 968, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 969, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 970, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 971, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 972, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 973, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 974, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 975, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 976, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 977, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 978, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 979, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 980, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 981, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 982, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 983, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 984, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 985, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 986, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 987, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 988, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 989, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 990, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 991, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 992, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 993, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 994, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 995, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 996, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 997, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 998, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 999, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1000, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1001, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1002, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1003, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1004, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1005, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1006, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1007, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1008, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1009, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1010, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1011, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1012, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1013, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1014, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1015, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1016, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1017, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1018, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1019, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1020, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1021, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1022, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1023, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1024, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1025, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1026, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1027, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1028, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1029, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1030, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1031, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1032, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1033, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1034, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1035, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1036, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1037, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1038, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1039, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1040, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1041, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1042, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1043, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1044, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1045, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1046, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1047, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1048, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1049, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1050, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1051, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1052, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1053, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1054, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1055, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1056, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1057, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1058, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1059, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1060, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1061, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1062, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1063, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1064, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1065, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1066, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1067, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1068, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1069, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1070, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1071, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1072, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1073, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1074, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1075, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1076, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1077, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1078, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1079, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1080, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1081, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1082, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1083, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1084, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1085, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1086, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1087, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1088, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1089, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1090, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1091, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1092, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1093, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1094, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1095, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1096, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1097, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1098, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1099, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1100, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1101, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1102, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1103, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1104, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1105, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1106, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1107, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1108, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1109, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1110, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1111, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1112, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1113, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1114, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1115, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1116, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1117, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1118, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1119, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1120, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1121, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1122, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1123, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1124, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1125, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1126, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1127, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1128, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1129, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1130, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1131, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1132, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1133, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1134, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1135, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1136, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1137, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1138, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1139, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1140, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1141, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1142, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1143, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1144, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1145, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1146, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1147, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1148, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1149, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1150, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1151, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1152, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1153, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1154, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1155, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1156, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1157, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1158, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1159, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1160, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1161, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1162, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1163, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1164, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1165, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1166, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1167, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1168, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1169, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1170, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1171, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1172, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1173, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1174, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1175, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1176, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1177, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1178, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1179, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1180, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1181, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1182, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1183, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1184, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1185, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1186, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1187, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1188, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1189, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1190, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1191, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1192, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1193, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1194, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1195, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1196, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1197, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1198, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1199, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1200, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1201, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1202, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1203, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1204, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1205, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1206, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1207, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1208, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1209, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1210, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1211, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1212, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1213, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1214, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1215, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1216, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1217, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1218, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1219, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1220, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1221, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1222, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1223, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1224, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1225, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1226, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1227, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1228, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1229, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1230, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1231, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1232, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1233, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1234, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1235, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1236, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1237, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1238, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1239, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1240, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1241, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1242, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1243, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1244, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1245, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1246, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1247, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1248, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1249, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1250, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1251, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1252, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1253, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1254, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1255, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1256, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1257, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1258, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1259, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1260, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1261, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1262, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1263, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1264, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1265, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1266, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1267, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1268, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1269, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1270, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1271, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1272, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1273, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1274, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1275, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1276, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1277, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1278, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1279, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1280, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1281, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1282, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1283, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1284, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1285, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1286, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1287, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1288, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1289, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1290, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1291, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1292, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1293, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1294, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1295, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1296, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1297, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1298, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1299, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1300, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1301, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1302, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1303, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1304, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1305, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1306, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1307, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1308, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1309, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1310, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1311, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1312, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1313, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1314, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1315, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1316, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1317, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1318, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1319, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1320, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1321, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1322, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1323, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1324, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1325, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1326, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1327, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1328, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1329, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1330, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1331, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1332, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1333, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1334, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1335, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1336, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1337, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1338, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1339, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1340, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1341, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1342, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1343, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1344, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1345, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1346, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1347, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1348, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1349, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1350, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1351, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1352, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1353, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1354, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1355, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1356, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1357, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1358, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1359, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1360, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1361, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1362, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1363, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1364, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1365, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1366, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1367, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1368, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1369, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1370, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1371, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1372, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1373, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1374, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1375, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1376, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1377, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1378, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1379, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1380, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1381, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1382, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1383, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1384, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1385, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1386, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1387, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1388, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1389, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1390, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1391, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1392, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1393, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1394, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1395, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1396, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1397, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1398, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1399, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1400, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1401, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1402, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1403, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1404, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1405, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1406, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1407, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1408, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1409, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1410, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1411, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1412, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1413, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1414, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1415, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1416, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1417, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1418, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1419, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1420, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1421, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1422, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1423, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1424, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1425, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1426, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1427, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1428, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1429, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1430, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1431, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1432, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1433, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1434, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1435, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1436, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1437, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1438, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1439, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1440, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1441, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1442, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1443, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1444, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1445, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1446, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1447, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1448, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1449, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1450, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1451, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1452, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1453, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1454, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1455, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1456, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1457, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1458, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1459, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1460, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1461, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1462, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1463, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1464, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1465, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1466, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1467, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1468, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1469, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1470, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1471, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1472, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1473, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1474, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1475, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1476, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1477, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1478, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1479, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1480, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1481, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1482, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1483, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1484, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1485, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1486, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1487, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1488, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1489, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1490, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1491, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1492, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1493, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1494, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1495, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1496, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1497, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1498, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1499, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1500, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1501, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1502, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1503, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1504, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1505, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1506, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1507, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1508, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1509, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1510, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1511, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1512, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1513, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1514, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1515, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1516, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1517, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1518, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1519, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1520, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1521, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1522, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1523, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1524, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1525, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1526, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1527, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1528, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1529, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1530, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1531, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1532, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1533, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1534, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1535, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1536, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1537, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1538, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1539, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1540, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1541, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1542, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1543, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1544, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1545, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1546, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1547, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1548, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1549, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1550, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1551, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1552, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1553, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1554, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1555, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1556, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1557, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1558, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1559, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1560, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1561, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1562, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1563, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1564, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1565, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1566, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1567, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1568, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1569, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1570, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1571, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1572, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1573, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1574, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1575, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1576, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1577, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1578, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1579, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1580, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1581, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1582, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1583, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1584, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1585, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1586, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1587, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1588, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1589, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1590, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1591, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1592, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1593, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1594, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1595, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1596, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1597, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1598, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1599, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1600, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1601, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1602, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1603, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1604, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1605, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1606, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1607, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1608, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1609, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1610, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1611, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1612, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1613, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1614, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1615, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1616, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1617, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1618, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1619, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1620, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1621, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1622, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1623, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1624, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1625, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1626, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1627, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1628, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1629, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1630, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1631, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1632, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1633, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1634, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1635, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1636, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1637, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1638, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1639, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1640, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1641, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1642, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1643, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1644, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1645, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1646, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1647, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1648, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1649, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1650, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1651, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1652, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1653, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1654, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1655, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1656, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1657, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1658, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1659, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1660, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1661, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1662, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1663, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1664, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1665, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1666, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1667, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1668, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1669, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1670, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1671, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1672, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1673, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1674, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1675, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1676, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1677, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1678, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1679, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1680, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1681, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1682, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1683, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1684, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1685, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1686, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1687, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1688, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1689, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1690, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1691, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1692, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1693, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1694, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1695, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1696, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1697, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1698, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1699, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1700, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1701, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1702, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1703, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1704, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1705, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1706, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1707, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1708, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1709, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1710, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1711, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1712, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1713, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1714, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1715, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1716, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1717, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1718, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1719, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1720, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1721, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1722, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1723, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1724, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1725, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1726, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1727, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1728, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1729, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1730, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1731, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1732, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1733, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1734, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1735, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1736, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1737, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1738, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1739, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1740, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1741, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1742, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1743, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1744, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1745, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1746, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1747, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1748, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1749, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1750, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1751, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1752, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1753, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1754, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1755, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1756, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1757, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1758, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1759, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1760, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1761, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1762, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1763, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1764, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1765, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1766, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1767, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1768, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1769, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1770, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1771, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1772, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1773, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1774, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1775, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1776, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1777, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1778, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1779, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1780, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1781, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1782, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1783, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1784, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1785, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1786, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1787, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1788, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1789, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1790, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1791, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1792, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1793, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1794, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1795, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1796, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1797, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1798, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1799, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1800, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1801, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1802, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1803, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1804, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1805, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1806, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1807, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1808, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1809, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1810, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1811, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1812, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1813, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1814, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1815, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1816, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1817, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1818, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1819, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1820, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1821, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1822, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1823, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1824, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1825, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1826, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1827, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1828, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1829, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1830, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1831, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1832, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1833, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1834, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1835, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1836, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1837, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1838, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1839, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1840, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1841, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1842, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1843, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1844, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1845, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1846, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1847, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1848, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1849, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1850, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1851, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1852, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1853, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1854, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1855, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1856, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1857, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1858, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1859, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1860, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1861, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1862, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1863, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1864, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1865, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1866, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1867, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1868, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1869, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1870, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1871, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1872, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1873, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1874, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1875, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1876, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1877, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1878, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1879, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1880, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1881, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1882, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1883, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1884, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1885, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1886, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1887, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1888, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1889, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1890, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1891, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1892, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1893, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1894, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1895, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1896, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1897, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1898, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1899, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1900, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1901, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1902, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1903, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1904, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1905, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1906, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1907, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1908, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1909, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1910, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1911, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1912, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1913, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1914, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1915, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1916, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1917, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1918, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1919, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1920, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1921, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1922, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1923, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1924, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1925, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1926, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1927, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1928, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1929, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1930, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1931, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1932, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1933, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1934, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1935, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1936, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1937, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1938, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1939, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1940, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1941, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1942, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1943, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1944, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1945, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1946, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1947, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1948, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1949, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1950, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1951, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1952, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1953, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1954, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1955, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1956, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1957, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1958, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1959, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1960, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1961, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1962, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1963, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1964, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1965, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1966, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1967, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1968, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1969, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1970, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1971, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1972, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1973, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1974, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1975, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1976, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1977, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1978, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1979, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1980, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1981, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1982, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1983, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1984, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1985, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1986, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1987, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1988, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1989, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1990, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1991, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1992, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1993, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1994, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1995, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1996, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1997, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1998, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 1999, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2000, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2001, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2002, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2003, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2004, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2005, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2006, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2007, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2008, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2009, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2010, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2011, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2012, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2013, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2014, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2015, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2016, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2017, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2018, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2019, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2020, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2021, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2022, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2023, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2024, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2025, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2026, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2027, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2028, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2029, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2030, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2031, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2032, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2033, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2034, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2035, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2036, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2037, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2038, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2039, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2040, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2041, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2042, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2043, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2044, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2045, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2046, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2047, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2048, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2049, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2050, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2051, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2052, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2053, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2054, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2055, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2056, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2057, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2058, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2059, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2060, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2061, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2062, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2063, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2064, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2065, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2066, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2067, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2068, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2069, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2070, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2071, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2072, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2073, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2074, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2075, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2076, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2077, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2078, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2079, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2080, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2081, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2082, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2083, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2084, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2085, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2086, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2087, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2088, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2089, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2090, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2091, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2092, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2093, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2094, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2095, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2096, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2097, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2098, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2099, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2100, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2101, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2102, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2103, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2104, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2105, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2106, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2107, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2108, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2109, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2110, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2111, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2112, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2113, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2114, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2115, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2116, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2117, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2118, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2119, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2120, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2121, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2122, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2123, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2124, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2125, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2126, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2127, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2128, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2129, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2130, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2131, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2132, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2133, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2134, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2135, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2136, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2137, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2138, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2139, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2140, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2141, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2142, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2143, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2144, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2145, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2146, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2147, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2148, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2149, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2150, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2151, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2152, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2153, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2154, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2155, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2156, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2157, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2158, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2159, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2160, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2161, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2162, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2163, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2164, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2165, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2166, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2167, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2168, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2169, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2170, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2171, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2172, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2173, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2174, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2175, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2176, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2177, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2178, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2179, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2180, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2181, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2182, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2183, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2184, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2185, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2186, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2187, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2188, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2189, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2190, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2191, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2192, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2193, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2194, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2195, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2196, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2197, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2198, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2199, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2200, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2201, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2202, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2203, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2204, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2205, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2206, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2207, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2208, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2209, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2210, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2211, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2212, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2213, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2214, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2215, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2216, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2217, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2218, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2219, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2220, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2221, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2222, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2223, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2224, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2225, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2226, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2227, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2228, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2229, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2230, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2231, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2232, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2233, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2234, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2235, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2236, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2237, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2238, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2239, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2240, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2241, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2242, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2243, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2244, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2245, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2246, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2247, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2248, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2249, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2250, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2251, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2252, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2253, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2254, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2255, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2256, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2257, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2258, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2259, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2260, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2261, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2262, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2263, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2264, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2265, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2266, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2267, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2268, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2269, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2270, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2271, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2272, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2273, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2274, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2275, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2276, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2277, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2278, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2279, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2280, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2281, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2282, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2283, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2284, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2285, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2286, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2287, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2288, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2289, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2290, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2291, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2292, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2293, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2294, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2295, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2296, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2297, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2298, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2299, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2300, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2301, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2302, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2303, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2304, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2305, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2306, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2307, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2308, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2309, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2310, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2311, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2312, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2313, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2314, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2315, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2316, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2317, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2318, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2319, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2320, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2321, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2322, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2323, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2324, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2325, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2326, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2327, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2328, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2329, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2330, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2331, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2332, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2333, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2334, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2335, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2336, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2337, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2338, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2339, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2340, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2341, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2342, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2343, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2344, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2345, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2346, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2347, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2348, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2349, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2350, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2351, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2352, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2353, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2354, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2355, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2356, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2357, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2358, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2359, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2360, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2361, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2362, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2363, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2364, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2365, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2366, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2367, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2368, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2369, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2370, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2371, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2372, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2373, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2374, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2375, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2376, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2377, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2378, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2379, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2380, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2381, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2382, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2383, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2384, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2385, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2386, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2387, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2388, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2389, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2390, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2391, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2392, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2393, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2394, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2395, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2396, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2397, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2398, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2399, RMSE: 0.8892, Length: 1, Model Equation: E
+Rank 2400, RMSE: 0.8892, Length: 1, Model Equation: E
