@@ -2,7 +2,7 @@ Source code for "Co-expression of Multi-genes for Polynary Perovskite Electrocat
 
 Use the command:
 
-    conda env create -f environment_skopt.yml
+    conda env create -f environment.yml
 
 to install all required packages.
 
