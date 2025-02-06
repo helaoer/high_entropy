@@ -1,4 +1,4 @@
-Source code for "Co-expression of Multi-genes for Polynary Perovskite Electrocatalysts"
+Source code for "Co-expression of multi-genes for polynary perovskite electrocatalysts for reversible solid oxide cells"
 
 Use the command:
 
