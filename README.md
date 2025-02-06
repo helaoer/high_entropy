@@ -27,3 +27,5 @@ to:
     root_mean_squared_error(y, y_pred)
 
 This is because mean_squared_error no longer supports the squared argument in newer versions of scikit-learn. Remember to import the root_mean_squared_error function.
+
+MC-MD and AIMD folder contains the raw data for molecular dynamics simulations.
